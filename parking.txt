@@ -1,2 +1,1 @@
-
 Valentine,KBN123A,101,300.0
